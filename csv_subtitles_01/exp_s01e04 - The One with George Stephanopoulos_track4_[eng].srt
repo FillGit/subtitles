@@ -1,0 +1,29 @@
+expression,expression_count
+i had a,3
+hey joey hey,2
+do that i,2
+you know you,36
+what's going on,2
+have no idea,2
+oh my god,2
+you know what,8
+know what i,5
+what do you,5
+what are you,6
+are you doing,5
+i have no,4
+all right all,25
+right all right,25
+look look look,2
+it and it,4
+oh this is,2
+my god i,4
+i can't believe,5
+can't believe it,2
+i know i,18
+know i know,15
+oh come on,2
+come on you,3
+you know what i,2
+what are you doing,4
+all right all right,25

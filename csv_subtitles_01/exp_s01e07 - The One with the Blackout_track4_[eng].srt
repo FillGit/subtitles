@@ -1,0 +1,19 @@
+expression,expression_count
+this is so,2
+oh my god,2
+it's her it's,2
+i'm fine i'm,5
+i don't know,8
+ooh oh ooh,3
+all right all,25
+right all right,25
+it's me it's,4
+i have no,4
+have no idea,2
+i'll go i'll,3
+go i'll go,3
+we have a,3
+have to have,11
+there in the,5
+come on no,2
+all right all right,25
