@@ -1,0 +1,22 @@
+expression,expression_count
+hey phoebe hey,2
+you know like,2
+i think we,2
+oh my god,2
+so what do,2
+what do you,5
+do you want,2
+no no no,25
+no no i'm,2
+you want to,2
+i have to,2
+have to go,2
+what are you,6
+you know what,8
+are you doing,5
+i can't believe,5
+can't believe you,4
+all right i'm,2
+i'm gonna go,4
+come on no,2
+i don't know,8

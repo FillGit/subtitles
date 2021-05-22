@@ -1,0 +1,45 @@
+expression,expression_count
+ 07883 ,2
+ 10135 hey,2
+he's funny he's,2
+he's a he,3
+oh god i,3
+god i just,2
+i'm gonna go,4
+that is that,12
+i did i,9
+i think so,2
+not me no,3
+it's because i,4
+go out with,2
+out with her,3
+what is it,2
+me i don't,2
+i don't know,8
+you're smart you're,2
+right what is,2
+it okay i,5
+okay i don't,3
+you just you,7
+you have a,3
+a quality a,3
+quality a quality,3
+oh my god,2
+i could do,2
+could do that,2
+i'm talking to,2
+talking to rome,2
+be here a,2
+you know what,8
+know what i,5
+nana bye nana,2
+she's present she's,2
+what's going on,2
+she may have,2
+may have died,2
+but i just,2
+uh maybe that's,2
+maybe that's because,2
+here you know,2
+a quality a quality,3
+you know what i,2

@@ -1,0 +1,16 @@
+expression,expression_count
+going out with,2
+all of a,6
+of a sudden,2
+no i don't,2
+i just want,2
+you know i,4
+i mean i,14
+i just had,2
+get out of,2
+you and i,2
+and i have,2
+i just i,20
+i'm sorry i,9
+i am a,5
+i don't need,2
