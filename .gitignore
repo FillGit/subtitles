@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 .idea/
+
+subtitles_org/
+subtitles_reg/
